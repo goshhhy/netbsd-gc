@@ -1,0 +1,19 @@
+/coro-alloc.cpp/1.1.1.3/Tue Jul 17 18:31:54 2018//
+/coro-await-domination.cpp/1.1.1.1/Tue Aug  1 19:34:16 2017//
+/coro-await-resume-eh.cpp/1.1.1.1/Tue Jul 17 18:31:54 2018//
+/coro-await.cpp/1.1.1.2/Tue Jul 17 18:31:54 2018//
+/coro-builtins-err.c/1.1.1.1/Wed Jan 11 10:40:15 2017//
+/coro-builtins.c/1.1.1.3/Tue Jul 17 18:31:54 2018//
+/coro-cleanup.cpp/1.1.1.1/Tue Aug  1 19:34:16 2017//
+/coro-dest-slot.cpp/1.1.1.1/Tue Jul 17 18:31:54 2018//
+/coro-eh-cleanup.cpp/1.1.1.2/Tue Jul 17 18:31:54 2018//
+/coro-gro-nrvo.cpp/1.1.1.1/Tue Jul 17 18:31:54 2018//
+/coro-gro.cpp/1.1.1.1/Tue Aug  1 19:34:16 2017//
+/coro-lambda.cpp/1.1.1.1/Tue Aug  1 19:34:16 2017//
+/coro-params.cpp/1.1.1.2/Tue Jul 17 18:31:54 2018//
+/coro-promise-dtor.cpp/1.1.1.2/Tue Jul 17 18:31:54 2018//
+/coro-ret-void.cpp/1.1.1.2/Tue Jul 17 18:31:54 2018//
+/coro-return.cpp/1.1.1.1/Tue Aug  1 19:34:16 2017//
+/coro-unhandled-exception.cpp/1.1.1.2/Tue Jul 17 18:31:54 2018//
+/microsoft-abi-operator-coawait.cpp/1.1.1.2/Tue Jul 17 18:31:54 2018//
+D

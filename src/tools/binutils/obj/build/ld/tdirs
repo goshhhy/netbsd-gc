@@ -1,0 +1,4 @@
+tdir_elf32ppc_nbsd=powerpc--netbsd
+tdir_elf32ppc=powerpc--netbsd
+tdir_elf32ppcsim=powerpc--netbsd
+tdir_elf64ppc=powerpc--netbsd

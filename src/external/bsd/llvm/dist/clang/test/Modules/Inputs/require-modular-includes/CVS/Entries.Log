@@ -1,0 +1,12 @@
+A D/A.framework////
+A D/B.framework////
+A D/ExcludedFromAnotherModule.framework////
+A D/FromAnotherModule.framework////
+A D/FromImportedModuleFail.framework////
+A D/FromImportedModuleOK.framework////
+A D/FromImportedSubModule.framework////
+A D/FromNonModularSubframework.framework////
+A D/FromSubframework.framework////
+A D/FromUmbrella.framework////
+A D/IncludeExcluded.framework////
+A D/umbrella////

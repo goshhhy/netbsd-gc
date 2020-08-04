@@ -1,0 +1,22 @@
+/alloc.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/assign_initializer_list.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/compare.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/compare_alloc.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/copy.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/copy_alloc.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/copy_assign.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/default.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/default_noexcept.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/dtor_noexcept.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/initializer_list.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/initializer_list_compare.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/initializer_list_compare_alloc.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/iter_iter.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/iter_iter_alloc.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/iter_iter_comp.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/move.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/move_alloc.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/move_assign.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/move_assign_noexcept.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/move_noexcept.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+D

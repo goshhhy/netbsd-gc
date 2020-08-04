@@ -1,0 +1,17 @@
+/affinity.c/1.6/Thu Aug  2 00:03:15 2018//
+/bar.c/1.6/Thu Aug  2 00:03:15 2018//
+/bar.h/1.6/Thu Aug  2 00:03:15 2018//
+/doacross.h/1.1.1.1/Wed Aug  1 22:18:48 2018//
+/futex.h/1.4/Thu Aug  2 00:03:15 2018//
+/lock.c/1.6/Thu Aug  2 00:03:15 2018//
+/mutex.c/1.6/Thu Aug  2 00:03:15 2018//
+/mutex.h/1.6/Thu Aug  2 00:03:15 2018//
+/omp-lock.h/1.5/Sun Jul 23 01:11:24 2017//
+/proc.c/1.6/Thu Aug  2 00:03:15 2018//
+/proc.h/1.4/Thu Aug  2 00:03:15 2018//
+/ptrlock.c/1.6/Thu Aug  2 00:03:15 2018//
+/ptrlock.h/1.6/Thu Aug  2 00:03:15 2018//
+/sem.c/1.6/Thu Aug  2 00:03:15 2018//
+/sem.h/1.6/Thu Aug  2 00:03:15 2018//
+/wait.h/1.6/Thu Aug  2 00:03:15 2018//
+D

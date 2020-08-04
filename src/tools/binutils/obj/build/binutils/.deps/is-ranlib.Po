@@ -1,0 +1,5 @@
+is-ranlib.o: \
+ /home/ky0ko/code/netbsd-gc/src/tools/binutils/../../external/gpl3/binutils.old/dist/binutils/is-ranlib.c \
+ /usr/include/stdc-predef.h
+
+/usr/include/stdc-predef.h:

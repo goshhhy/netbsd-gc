@@ -1,0 +1,5 @@
+/lit.local.cfg/1.1.1.1/Tue Jan 10 20:48:34 2017//
+/merge-across-side-effects.ll/1.1.1.1/Tue Jan 10 20:48:34 2017//
+/non-instr-bitcast.ll/1.1.1.1/Tue Jan 10 20:48:34 2017//
+/propagate-invariance-metadata.ll/1.1.1.1/Tue Jan 10 20:48:34 2017//
+D

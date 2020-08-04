@@ -1,0 +1,24 @@
+/am33xx.h/1.1.1.2/Thu Nov 30 19:40:51 2017//
+/am43xx.h/1.1.1.3/Sat Apr 28 18:25:53 2018//
+/at91.h/1.1.1.1/Thu Jun 15 20:14:23 2017//
+/bcm2835.h/1.1.1.1/Thu Jun 15 20:14:23 2017//
+/brcm,pinctrl-stingray.h/1.1.1.1/Sat Oct 28 10:30:32 2017//
+/dm814x.h/1.1.1.2/Thu Nov 30 19:40:51 2017//
+/dra.h/1.1.1.2/Sat Oct 28 10:30:32 2017//
+/hisi.h/1.1.1.2/Thu Jul 27 18:10:50 2017//
+/keystone.h/1.1.1.1/Thu Jun 15 20:14:23 2017//
+/mt6397-pinfunc.h/1.1.1.2/Thu Nov 30 19:40:51 2017//
+/mt65xx.h/1.1.1.1/Thu Jun 15 20:14:23 2017//
+/mt7623-pinfunc.h/1.1.1.5/Wed Jun 27 16:27:08 2018//
+/nomadik.h/1.1.1.1/Thu Jun 15 20:14:23 2017//
+/omap.h/1.1.1.2/Thu Nov 30 19:40:51 2017//
+/pinctrl-tegra-xusb.h/1.1.1.2/Thu Nov 30 19:40:51 2017//
+/pinctrl-tegra.h/1.1.1.1/Thu Jun 15 20:14:23 2017//
+/qcom,pmic-gpio.h/1.1.1.3/Thu Nov 30 19:40:51 2017//
+/qcom,pmic-mpp.h/1.1.1.2/Thu Nov 30 19:40:51 2017//
+/r7s72100-pinctrl.h/1.1.1.2/Thu Nov 30 19:40:51 2017//
+/rockchip.h/1.1.1.1/Thu Jun 15 20:14:23 2017//
+/samsung.h/1.1.1.2/Sat Oct 28 10:30:32 2017//
+/stm32-pinfunc.h/1.1.1.2/Sat Apr 28 18:25:53 2018//
+/sun4i-a10.h/1.1.1.1/Thu Jun 15 20:14:23 2017//
+D

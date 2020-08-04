@@ -1,0 +1,5 @@
+@set version-GCC 6.4.0
+@clear DEVELOPMENT
+@set srcdir /home/ky0ko/code/netbsd-gc/src/tools/gcc/../../external/gpl3/gcc.old/dist/gcc
+@set VERSION_PACKAGE (NetBSD nb3 20180905) 
+@set BUGURL @uref{http://www.NetBSD.org/Misc/send-pr.html}

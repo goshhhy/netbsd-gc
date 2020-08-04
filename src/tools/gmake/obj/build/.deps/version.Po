@@ -1,0 +1,7 @@
+version.o: \
+ /home/ky0ko/code/netbsd-gc/src/tools/gmake/../../external/gpl2/gmake/dist/version.c \
+ /usr/include/stdc-predef.h config.h
+
+/usr/include/stdc-predef.h:
+
+config.h:

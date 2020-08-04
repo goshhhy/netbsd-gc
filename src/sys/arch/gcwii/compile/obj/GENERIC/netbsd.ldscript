@@ -1,0 +1,83 @@
+OUTPUT_FORMAT("elf32-powerpc", "elf32-powerpc",
+       "elf32-powerpc")
+OUTPUT_ARCH(powerpc:common)
+ENTRY(_start)
+_DYNAMIC_LINK = 0;
+SECTIONS
+{
+  .text :
+  {
+    _ftext = . ;
+    PROVIDE_HIDDEN (__eprol = .);
+    *(.text)
+    *(.text.unlikely .text.*_unlikely)
+    *(.text.exit .text.exit.*)
+    *(.text.startup .text.startup.*)
+    *(.text.hot .text.hot.*)
+    *(.text.* .gnu.linkonce.t.*)
+    __stub_start = .;
+    *(.stub)
+    __stub_end = .;
+    __stub_pmap_start = .;
+    *(.stub.pmap)
+    __stub_pmap_end = .;
+    *(.gnu.warning)
+    *(.glink)
+  } =0
+  _etext = .;
+  PROVIDE (__etext = .);
+  PROVIDE (_etext = .);
+  PROVIDE (etext = .);
+  .rodata : { *(.rodata .rodata.* .gnu.linkonce.r.*) }
+  .rodata1 : { *(.rodata1) }
+  .sdata2 :
+  {
+    PROVIDE (_SDA2_BASE_ = 32768);
+    *(.sdata2 .sdata2.* .gnu.linkonce.s2.*)
+  }
+  .sbss2 : { *(.sbss2 .sbss2.* .gnu.linkonce.sb2.*) }
+  .reginfo : { *(.reginfo) }
+  .data :
+  {
+    _fdata = . ;
+    *(.data .data.* .gnu.linkonce.d.*)
+    SORT(CONSTRUCTORS)
+  }
+  .data1 : { *(.data1) }
+  . = ALIGN(32);
+  .data.cacheline_aligned : { *(.data.cacheline_aligned) }
+  . = ALIGN(32);
+  .data.read_mostly : { *(.data.read_mostly) }
+  . = ALIGN(32);
+  _gp = ALIGN(16) + 0x7ff0;
+  .lit8 : { *(.lit8) }
+  .lit4 : { *(.lit4) }
+  .sdata :
+  {
+    PROVIDE (_SDA_BASE_ = 32768);
+    *(.sdata .sdata.* .gnu.linkonce.s.*)
+  }
+  _edata = .; PROVIDE (edata = .);
+  . = .;
+  __bss_start = .;
+  _fbss = .;
+  .sbss :
+  {
+    PROVIDE (__sbss_start = .); PROVIDE (___sbss_start = .);
+    *(.dynsbss)
+    *(.sbss .sbss.* .gnu.linkonce.sb.*)
+    *(.scommon)
+    PROVIDE (__sbss_end = .); PROVIDE (___sbss_end = .);
+  }
+  .bss :
+  {
+    *(.dynbss)
+    *(.bss .bss.* .gnu.linkonce.b.*)
+    *(COMMON)
+    . = ALIGN(. != 0 ? 32 / 8 : 1);
+  }
+  . = ALIGN(32 / 8);
+  . = ALIGN(32 / 8);
+  __end = .;
+  _end = .; PROVIDE (end = .);
+}

@@ -1,0 +1,2 @@
+regsub.o: \
+ /home/ky0ko/code/netbsd-gc/src/tools/gcc/../../external/gpl3/gcc.old/dist/gcc/regsub.c

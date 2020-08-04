@@ -1,0 +1,1 @@
+/home/ky0ko/code/netbsd-gc/src/crypto/external/bsd/heimdal/include/krb5-types.h

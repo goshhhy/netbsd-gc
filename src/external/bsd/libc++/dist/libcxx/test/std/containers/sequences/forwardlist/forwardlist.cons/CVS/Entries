@@ -1,0 +1,27 @@
+/alloc.fail.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/alloc.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/assign_copy.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/assign_init.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/assign_move.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/assign_op_init.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/assign_range.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/assign_size_value.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/copy.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/copy_alloc.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/default.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/default_noexcept.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/default_recursive.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/dtor_noexcept.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/init.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/init_alloc.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/move.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/move_alloc.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/move_assign_noexcept.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/move_noexcept.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/range.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/range_alloc.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/size.fail.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/size.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/size_value.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/size_value_alloc.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+D

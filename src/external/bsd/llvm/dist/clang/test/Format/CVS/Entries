@@ -1,0 +1,21 @@
+/adjust-indent.cpp/1.1.1.1/Sat Feb 27 22:10:24 2016//
+/basic.cpp/1.1.1.2/Sat Feb 27 22:10:24 2016//
+/cursor.cpp/1.1.1.2/Sat Feb 27 22:10:24 2016//
+/disable-format.cpp/1.1.1.2/Sat Feb 27 22:10:24 2016//
+/disable-include-sorting.cpp/1.1.1.1/Sat Feb 27 22:10:24 2016//
+/dump-config-cxx.h/1.1.1.1/Tue Jul 17 18:31:29 2018//
+/dump-config-objc.h/1.1.1.1/Tue Jul 17 18:31:29 2018//
+/incomplete.cpp/1.1.1.2/Tue Aug  1 19:34:10 2017//
+/inplace.cpp/1.1.1.1/Tue Aug  1 19:34:10 2017//
+/language-detection.cpp/1.1.1.2/Sat Feb 27 22:10:24 2016//
+/line-ranges.cpp/1.1.1.2/Sat Feb 27 22:10:24 2016//
+/lit.local.cfg/1.1.1.1/Tue Jul 17 18:31:29 2018//
+/multiple-inputs-error.cpp/1.1.1.1/Thu Nov 28 14:14:58 2013//
+/multiple-inputs-inplace.cpp/1.1.1.1/Thu Nov 28 14:14:58 2013//
+/multiple-inputs.cpp/1.1.1.1/Thu Nov 28 14:14:58 2013//
+/ranges.cpp/1.1.1.2/Sat Feb 27 22:10:24 2016//
+/remove-duplicate-includes.cpp/1.1.1.1/Wed Jan 11 10:36:49 2017//
+/style-on-command-line.cpp/1.1.1.6/Tue Jul 17 18:31:29 2018//
+/verbose.cpp/1.1.1.1/Tue Jul 17 18:31:29 2018//
+/xmloutput.cpp/1.1.1.1/Sat Feb 27 22:10:24 2016//
+D

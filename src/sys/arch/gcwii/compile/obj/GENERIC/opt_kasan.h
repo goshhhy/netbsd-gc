@@ -1,0 +1,9 @@
+/* option `KASAN' not defined */
+#ifdef _LOCORE
+ .ifndef _KERNEL_OPT_KASAN
+ .global _KERNEL_OPT_KASAN
+ .equiv _KERNEL_OPT_KASAN,0x6e074def
+ .endif
+#else
+__asm(" .ifndef _KERNEL_OPT_KASAN\n .global _KERNEL_OPT_KASAN\n .equiv _KERNEL_OPT_KASAN,0x6e074def\n .endif");
+#endif

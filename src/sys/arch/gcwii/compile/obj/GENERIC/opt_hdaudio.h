@@ -1,0 +1,54 @@
+/* option `HDAUDIO_ENABLE_HDMI' not defined */
+#ifdef _LOCORE
+ .ifndef _KERNEL_OPT_HDAUDIO_ENABLE_HDMI
+ .global _KERNEL_OPT_HDAUDIO_ENABLE_HDMI
+ .equiv _KERNEL_OPT_HDAUDIO_ENABLE_HDMI,0x6e074def
+ .endif
+#else
+__asm(" .ifndef _KERNEL_OPT_HDAUDIO_ENABLE_HDMI\n .global _KERNEL_OPT_HDAUDIO_ENABLE_HDMI\n .equiv _KERNEL_OPT_HDAUDIO_ENABLE_HDMI,0x6e074def\n .endif");
+#endif
+/* option `HDAUDIO_ENABLE_DISPLAYPORT' not defined */
+#ifdef _LOCORE
+ .ifndef _KERNEL_OPT_HDAUDIO_ENABLE_DISPLAYPORT
+ .global _KERNEL_OPT_HDAUDIO_ENABLE_DISPLAYPORT
+ .equiv _KERNEL_OPT_HDAUDIO_ENABLE_DISPLAYPORT,0x6e074def
+ .endif
+#else
+__asm(" .ifndef _KERNEL_OPT_HDAUDIO_ENABLE_DISPLAYPORT\n .global _KERNEL_OPT_HDAUDIO_ENABLE_DISPLAYPORT\n .equiv _KERNEL_OPT_HDAUDIO_ENABLE_DISPLAYPORT,0x6e074def\n .endif");
+#endif
+/* option `HDAUDIO_DEBUG' not defined */
+#ifdef _LOCORE
+ .ifndef _KERNEL_OPT_HDAUDIO_DEBUG
+ .global _KERNEL_OPT_HDAUDIO_DEBUG
+ .equiv _KERNEL_OPT_HDAUDIO_DEBUG,0x6e074def
+ .endif
+#else
+__asm(" .ifndef _KERNEL_OPT_HDAUDIO_DEBUG\n .global _KERNEL_OPT_HDAUDIO_DEBUG\n .equiv _KERNEL_OPT_HDAUDIO_DEBUG,0x6e074def\n .endif");
+#endif
+/* option `HDAUDIO_32BIT_ACCESS' not defined */
+#ifdef _LOCORE
+ .ifndef _KERNEL_OPT_HDAUDIO_32BIT_ACCESS
+ .global _KERNEL_OPT_HDAUDIO_32BIT_ACCESS
+ .equiv _KERNEL_OPT_HDAUDIO_32BIT_ACCESS,0x6e074def
+ .endif
+#else
+__asm(" .ifndef _KERNEL_OPT_HDAUDIO_32BIT_ACCESS\n .global _KERNEL_OPT_HDAUDIO_32BIT_ACCESS\n .equiv _KERNEL_OPT_HDAUDIO_32BIT_ACCESS,0x6e074def\n .endif");
+#endif
+/* option `HDAFG_DEBUG' not defined */
+#ifdef _LOCORE
+ .ifndef _KERNEL_OPT_HDAFG_DEBUG
+ .global _KERNEL_OPT_HDAFG_DEBUG
+ .equiv _KERNEL_OPT_HDAFG_DEBUG,0x6e074def
+ .endif
+#else
+__asm(" .ifndef _KERNEL_OPT_HDAFG_DEBUG\n .global _KERNEL_OPT_HDAFG_DEBUG\n .equiv _KERNEL_OPT_HDAFG_DEBUG,0x6e074def\n .endif");
+#endif
+/* option `HDAFG_HDMI_DEBUG' not defined */
+#ifdef _LOCORE
+ .ifndef _KERNEL_OPT_HDAFG_HDMI_DEBUG
+ .global _KERNEL_OPT_HDAFG_HDMI_DEBUG
+ .equiv _KERNEL_OPT_HDAFG_HDMI_DEBUG,0x6e074def
+ .endif
+#else
+__asm(" .ifndef _KERNEL_OPT_HDAFG_HDMI_DEBUG\n .global _KERNEL_OPT_HDAFG_HDMI_DEBUG\n .equiv _KERNEL_OPT_HDAFG_HDMI_DEBUG,0x6e074def\n .endif");
+#endif

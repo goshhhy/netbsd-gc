@@ -1,0 +1,14 @@
+A D/move.iter.nonmember////
+A D/move.iter.op.+////
+A D/move.iter.op.+=////
+A D/move.iter.op.-////
+A D/move.iter.op.-=////
+A D/move.iter.op.comp////
+A D/move.iter.op.const////
+A D/move.iter.op.conv////
+A D/move.iter.op.decr////
+A D/move.iter.op.incr////
+A D/move.iter.op.index////
+A D/move.iter.op.ref////
+A D/move.iter.op.star////
+A D/move.iter.op=////

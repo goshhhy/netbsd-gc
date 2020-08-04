@@ -1,0 +1,16 @@
+/Makefile.am/1.1.1.5/Sat Apr  7 00:15:57 2018//
+/Makefile.in/1.1.1.10/Sat Apr  7 00:15:57 2018//
+/leapsec.c/1.2/Sat Apr  7 00:19:54 2018//
+/ntp_prio_q.c/1.2/Sat Apr  7 00:19:54 2018//
+/ntp_restrict.c/1.2/Sat Apr  7 00:19:54 2018//
+/rc_cmdlength.c/1.2/Sat Apr  7 00:19:54 2018//
+/run-leapsec.c/1.2/Sat Apr  7 00:19:54 2018//
+/run-ntp_prio_q.c/1.2/Sat Apr  7 00:19:54 2018//
+/run-ntp_restrict.c/1.2/Sat Apr  7 00:19:54 2018//
+/run-rc_cmdlength.c/1.2/Sat Apr  7 00:19:54 2018//
+/run-t-ntp_scanner.c/1.2/Sat Apr  7 00:19:54 2018//
+/run-t-ntp_signd.c/1.2/Sat Apr  7 00:19:54 2018//
+/t-ntp_scanner.c/1.2/Sat Apr  7 00:19:54 2018//
+/t-ntp_signd.c/1.1.1.5/Sat Sep 29 17:28:43 2018//
+/testconf.yml/1.1.1.1/Sat Apr  7 00:15:57 2018//
+D

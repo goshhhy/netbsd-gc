@@ -1,0 +1,24 @@
+/Makefile.am/1.1.1.2/Tue Aug 22 09:40:49 2017//
+/Makefile.in/1.1.1.3/Tue Aug 22 09:40:49 2017//
+/asprintf.c/1.1.1.2/Tue Aug 22 09:40:49 2017//
+/asprntffuns.c/1.1.1.2/Tue Aug 22 09:40:49 2017//
+/doprnt.c/1.1.1.2/Tue Aug 22 09:40:49 2017//
+/doprntf.c/1.1.1.3/Tue Aug 22 09:40:49 2017//
+/doprnti.c/1.1.1.2/Tue Aug 22 09:40:49 2017//
+/fprintf.c/1.1.1.2/Tue Aug 22 09:40:49 2017//
+/obprintf.c/1.1.1.2/Tue Aug 22 09:40:49 2017//
+/obprntffuns.c/1.1.1.2/Tue Aug 22 09:40:49 2017//
+/obvprintf.c/1.1.1.2/Tue Aug 22 09:40:49 2017//
+/printf.c/1.1.1.2/Tue Aug 22 09:40:49 2017//
+/printffuns.c/1.1.1.3/Tue Aug 22 09:40:49 2017//
+/repl-vsnprintf.c/1.1.1.2/Tue Aug 22 09:40:49 2017//
+/snprintf.c/1.1.1.2/Tue Aug 22 09:40:49 2017//
+/snprntffuns.c/1.1.1.2/Tue Aug 22 09:40:49 2017//
+/sprintf.c/1.1.1.2/Tue Aug 22 09:40:49 2017//
+/sprintffuns.c/1.1.1.2/Tue Aug 22 09:40:49 2017//
+/vasprintf.c/1.1.1.2/Tue Aug 22 09:40:49 2017//
+/vfprintf.c/1.1.1.2/Tue Aug 22 09:40:49 2017//
+/vprintf.c/1.1.1.2/Tue Aug 22 09:40:49 2017//
+/vsnprintf.c/1.1.1.2/Tue Aug 22 09:40:49 2017//
+/vsprintf.c/1.1.1.2/Tue Aug 22 09:40:49 2017//
+D

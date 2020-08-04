@@ -1,0 +1,287 @@
+file configure.local: no (fully automatic configuration)
+
+selected CFLAGS="-g -W -Wall -Wmissing-prototypes -Wstrict-prototypes -Wwrite-strings -Wno-unused-parameter" (manual)
+
+testing noop-static ...
+cc -g -W -Wall -Wmissing-prototypes -Wstrict-prototypes -Wwrite-strings -Wno-unused-parameter -o test-noop test-noop.c -static
+partial result of noop-static: cc succeeded
+result of running noop-static: yes
+
+selected STATIC="-static"
+
+testing dirent-namlen ...
+cc -g -W -Wall -Wmissing-prototypes -Wstrict-prototypes -Wwrite-strings -Wno-unused-parameter -o test-dirent-namlen test-dirent-namlen.c 
+/home/ky0ko/code/netbsd-gc/src/tools/mandoc/../../external/bsd/mdocml/bin/mandoc/../../dist/test-dirent-namlen.c: In function 'main':
+/home/ky0ko/code/netbsd-gc/src/tools/mandoc/../../external/bsd/mdocml/bin/mandoc/../../dist/test-dirent-namlen.c:9:22: error: 'struct dirent' has no member named 'd_namlen'; did you mean 'd_name'?
+  return sizeof(entry.d_namlen) == 0;
+                      ^~~~~~~~
+                      d_name
+/home/ky0ko/code/netbsd-gc/src/tools/mandoc/../../external/bsd/mdocml/bin/mandoc/../../dist/test-dirent-namlen.c:7:17: warning: variable 'entry' set but not used [-Wunused-but-set-variable]
+  struct dirent  entry;
+                 ^~~~~
+result of dirent-namlen: cc failed with exit status 1
+result of compiling dirent-namlen: no
+
+testing be32toh ...
+cc -g -W -Wall -Wmissing-prototypes -Wstrict-prototypes -Wwrite-strings -Wno-unused-parameter -o test-be32toh test-be32toh.c 
+partial result of be32toh: cc succeeded
+result of running be32toh: yes
+
+testing be32toh-DSYS_ENDIAN ...
+cc -g -W -Wall -Wmissing-prototypes -Wstrict-prototypes -Wwrite-strings -Wno-unused-parameter -o test-be32toh test-be32toh.c -DSYS_ENDIAN
+/home/ky0ko/code/netbsd-gc/src/tools/mandoc/../../external/bsd/mdocml/bin/mandoc/../../dist/test-be32toh.c:2:10: fatal error: sys/endian.h: No such file or directory
+ #include <sys/endian.h>
+          ^~~~~~~~~~~~~~
+compilation terminated.
+result of be32toh-DSYS_ENDIAN: cc failed with exit status 1
+result of compiling be32toh-DSYS_ENDIAN: no
+
+testing EFTYPE ...
+cc -g -W -Wall -Wmissing-prototypes -Wstrict-prototypes -Wwrite-strings -Wno-unused-parameter -o test-EFTYPE test-EFTYPE.c 
+/home/ky0ko/code/netbsd-gc/src/tools/mandoc/../../external/bsd/mdocml/bin/mandoc/../../dist/test-EFTYPE.c: In function 'main':
+/home/ky0ko/code/netbsd-gc/src/tools/mandoc/../../external/bsd/mdocml/bin/mandoc/../../dist/test-EFTYPE.c:6:10: error: 'EFTYPE' undeclared (first use in this function); did you mean 'ESPIPE'?
+  return !EFTYPE;
+          ^~~~~~
+          ESPIPE
+/home/ky0ko/code/netbsd-gc/src/tools/mandoc/../../external/bsd/mdocml/bin/mandoc/../../dist/test-EFTYPE.c:6:10: note: each undeclared identifier is reported only once for each function it appears in
+result of EFTYPE: cc failed with exit status 1
+result of compiling EFTYPE: no
+
+testing err ...
+cc -g -W -Wall -Wmissing-prototypes -Wstrict-prototypes -Wwrite-strings -Wno-unused-parameter -o test-err test-err.c 
+partial result of err: cc succeeded
+test-err: 1. warnx
+test-err: 2. warn: Success
+test-err: 3. err: Success
+result of running err: yes
+
+testing getline ...
+cc -g -W -Wall -Wmissing-prototypes -Wstrict-prototypes -Wwrite-strings -Wno-unused-parameter -o test-getline test-getline.c 
+partial result of getline: cc succeeded
+result of running getline: yes
+
+testing getsubopt ...
+cc -g -W -Wall -Wmissing-prototypes -Wstrict-prototypes -Wwrite-strings -Wno-unused-parameter -o test-getsubopt test-getsubopt.c 
+partial result of getsubopt: cc succeeded
+result of running getsubopt: yes
+
+testing isblank ...
+cc -g -W -Wall -Wmissing-prototypes -Wstrict-prototypes -Wwrite-strings -Wno-unused-parameter -o test-isblank test-isblank.c 
+partial result of isblank: cc succeeded
+result of running isblank: yes
+
+testing mkdtemp ...
+cc -g -W -Wall -Wmissing-prototypes -Wstrict-prototypes -Wwrite-strings -Wno-unused-parameter -o test-mkdtemp test-mkdtemp.c 
+partial result of mkdtemp: cc succeeded
+result of running mkdtemp: yes
+
+testing ntohl ...
+cc -g -W -Wall -Wmissing-prototypes -Wstrict-prototypes -Wwrite-strings -Wno-unused-parameter -o test-ntohl test-ntohl.c 
+partial result of ntohl: cc succeeded
+result of running ntohl: yes
+
+testing O_DIRECTORY ...
+cc -g -W -Wall -Wmissing-prototypes -Wstrict-prototypes -Wwrite-strings -Wno-unused-parameter -o test-O_DIRECTORY test-O_DIRECTORY.c 
+partial result of O_DIRECTORY: cc succeeded
+result of running O_DIRECTORY: yes
+
+testing PATH_MAX ...
+cc -g -W -Wall -Wmissing-prototypes -Wstrict-prototypes -Wwrite-strings -Wno-unused-parameter -o test-PATH_MAX test-PATH_MAX.c 
+partial result of PATH_MAX: cc succeeded
+PATH_MAX is defined to be 4096
+result of running PATH_MAX: yes
+
+testing pledge ...
+cc -g -W -Wall -Wmissing-prototypes -Wstrict-prototypes -Wwrite-strings -Wno-unused-parameter -o test-pledge test-pledge.c 
+/home/ky0ko/code/netbsd-gc/src/tools/mandoc/../../external/bsd/mdocml/bin/mandoc/../../dist/test-pledge.c: In function 'main':
+/home/ky0ko/code/netbsd-gc/src/tools/mandoc/../../external/bsd/mdocml/bin/mandoc/../../dist/test-pledge.c:6:11: warning: implicit declaration of function 'pledge' [-Wimplicit-function-declaration]
+  return !!pledge("stdio", NULL);
+           ^~~~~~
+/usr/bin/ld: /tmp/ccuj4cVY.o: in function `main':
+/home/ky0ko/code/netbsd-gc/src/tools/mandoc/../../external/bsd/mdocml/bin/mandoc/../../dist/test-pledge.c:6: undefined reference to `pledge'
+collect2: error: ld returned 1 exit status
+result of pledge: cc failed with exit status 1
+result of compiling pledge: no
+
+testing sandbox_init ...
+cc -g -W -Wall -Wmissing-prototypes -Wstrict-prototypes -Wwrite-strings -Wno-unused-parameter -o test-sandbox_init test-sandbox_init.c 
+/home/ky0ko/code/netbsd-gc/src/tools/mandoc/../../external/bsd/mdocml/bin/mandoc/../../dist/test-sandbox_init.c:1:10: fatal error: sandbox.h: No such file or directory
+ #include <sandbox.h>
+          ^~~~~~~~~~~
+compilation terminated.
+result of sandbox_init: cc failed with exit status 1
+result of compiling sandbox_init: no
+
+testing progname ...
+cc -g -W -Wall -Wmissing-prototypes -Wstrict-prototypes -Wwrite-strings -Wno-unused-parameter -o test-progname test-progname.c 
+/home/ky0ko/code/netbsd-gc/src/tools/mandoc/../../external/bsd/mdocml/bin/mandoc/../../dist/test-progname.c: In function 'main':
+/home/ky0ko/code/netbsd-gc/src/tools/mandoc/../../external/bsd/mdocml/bin/mandoc/../../dist/test-progname.c:8:13: warning: implicit declaration of function 'getprogname' [-Wimplicit-function-declaration]
+  progname = getprogname();
+             ^~~~~~~~~~~
+/home/ky0ko/code/netbsd-gc/src/tools/mandoc/../../external/bsd/mdocml/bin/mandoc/../../dist/test-progname.c:8:11: warning: assignment to 'const char *' from 'int' makes pointer from integer without a cast [-Wint-conversion]
+  progname = getprogname();
+           ^
+/usr/bin/ld: /tmp/ccPFxmz0.o: in function `main':
+/home/ky0ko/code/netbsd-gc/src/tools/mandoc/../../external/bsd/mdocml/bin/mandoc/../../dist/test-progname.c:8: undefined reference to `getprogname'
+collect2: error: ld returned 1 exit status
+result of progname: cc failed with exit status 1
+result of compiling progname: no
+
+testing reallocarray ...
+cc -g -W -Wall -Wmissing-prototypes -Wstrict-prototypes -Wwrite-strings -Wno-unused-parameter -o test-reallocarray test-reallocarray.c 
+/home/ky0ko/code/netbsd-gc/src/tools/mandoc/../../external/bsd/mdocml/bin/mandoc/../../dist/test-reallocarray.c: In function 'main':
+/home/ky0ko/code/netbsd-gc/src/tools/mandoc/../../external/bsd/mdocml/bin/mandoc/../../dist/test-reallocarray.c:6:10: warning: implicit declaration of function 'reallocarray'; did you mean 'realloc'? [-Wimplicit-function-declaration]
+  return !reallocarray(NULL, 2, 2);
+          ^~~~~~~~~~~~
+          realloc
+partial result of reallocarray: cc succeeded
+result of running reallocarray: yes
+
+testing recallocarray ...
+cc -g -W -Wall -Wmissing-prototypes -Wstrict-prototypes -Wwrite-strings -Wno-unused-parameter -o test-recallocarray test-recallocarray.c 
+/home/ky0ko/code/netbsd-gc/src/tools/mandoc/../../external/bsd/mdocml/bin/mandoc/../../dist/test-recallocarray.c: In function 'main':
+/home/ky0ko/code/netbsd-gc/src/tools/mandoc/../../external/bsd/mdocml/bin/mandoc/../../dist/test-recallocarray.c:10:10: warning: implicit declaration of function 'recallocarray'; did you mean 'realloc'? [-Wimplicit-function-declaration]
+  return !recallocarray(p, 2, 3, 2);
+          ^~~~~~~~~~~~~
+          realloc
+/usr/bin/ld: /tmp/ccmwTVY8.o: in function `main':
+/home/ky0ko/code/netbsd-gc/src/tools/mandoc/../../external/bsd/mdocml/bin/mandoc/../../dist/test-recallocarray.c:10: undefined reference to `recallocarray'
+collect2: error: ld returned 1 exit status
+result of recallocarray: cc failed with exit status 1
+result of compiling recallocarray: no
+
+testing rewb-bsd ...
+cc -g -W -Wall -Wmissing-prototypes -Wstrict-prototypes -Wwrite-strings -Wno-unused-parameter -o test-rewb-bsd test-rewb-bsd.c 
+partial result of rewb-bsd: cc succeeded
+result of rewb-bsd: execution failed with exit status 1
+result of running rewb-bsd: no
+
+testing rewb-sysv ...
+cc -g -W -Wall -Wmissing-prototypes -Wstrict-prototypes -Wwrite-strings -Wno-unused-parameter -o test-rewb-sysv test-rewb-sysv.c 
+partial result of rewb-sysv: cc succeeded
+result of running rewb-sysv: yes
+
+testing strcasestr ...
+cc -g -W -Wall -Wmissing-prototypes -Wstrict-prototypes -Wwrite-strings -Wno-unused-parameter -o test-strcasestr test-strcasestr.c 
+partial result of strcasestr: cc succeeded
+result of running strcasestr: yes
+
+testing stringlist ...
+cc -g -W -Wall -Wmissing-prototypes -Wstrict-prototypes -Wwrite-strings -Wno-unused-parameter -o test-stringlist test-stringlist.c 
+/home/ky0ko/code/netbsd-gc/src/tools/mandoc/../../external/bsd/mdocml/bin/mandoc/../../dist/test-stringlist.c:18:10: fatal error: stringlist.h: No such file or directory
+ #include <stringlist.h>
+          ^~~~~~~~~~~~~~
+compilation terminated.
+result of stringlist: cc failed with exit status 1
+result of compiling stringlist: no
+
+testing strlcat ...
+cc -g -W -Wall -Wmissing-prototypes -Wstrict-prototypes -Wwrite-strings -Wno-unused-parameter -o test-strlcat test-strlcat.c 
+/home/ky0ko/code/netbsd-gc/src/tools/mandoc/../../external/bsd/mdocml/bin/mandoc/../../dist/test-strlcat.c: In function 'main':
+/home/ky0ko/code/netbsd-gc/src/tools/mandoc/../../external/bsd/mdocml/bin/mandoc/../../dist/test-strlcat.c:7:12: warning: implicit declaration of function 'strlcat'; did you mean 'strncat'? [-Wimplicit-function-declaration]
+  return ! (strlcat(buf, "b", sizeof(buf)) == 2 &&
+            ^~~~~~~
+            strncat
+/usr/bin/ld: /tmp/ccndzAzl.o: in function `main':
+/home/ky0ko/code/netbsd-gc/src/tools/mandoc/../../external/bsd/mdocml/bin/mandoc/../../dist/test-strlcat.c:7: undefined reference to `strlcat'
+collect2: error: ld returned 1 exit status
+result of strlcat: cc failed with exit status 1
+result of compiling strlcat: no
+
+testing strlcpy ...
+cc -g -W -Wall -Wmissing-prototypes -Wstrict-prototypes -Wwrite-strings -Wno-unused-parameter -o test-strlcpy test-strlcpy.c 
+/home/ky0ko/code/netbsd-gc/src/tools/mandoc/../../external/bsd/mdocml/bin/mandoc/../../dist/test-strlcpy.c: In function 'main':
+/home/ky0ko/code/netbsd-gc/src/tools/mandoc/../../external/bsd/mdocml/bin/mandoc/../../dist/test-strlcpy.c:7:12: warning: implicit declaration of function 'strlcpy'; did you mean 'strncpy'? [-Wimplicit-function-declaration]
+  return ! (strlcpy(buf, "a", sizeof(buf)) == 1 &&
+            ^~~~~~~
+            strncpy
+/usr/bin/ld: /tmp/ccpvWsfr.o: in function `main':
+/home/ky0ko/code/netbsd-gc/src/tools/mandoc/../../external/bsd/mdocml/bin/mandoc/../../dist/test-strlcpy.c:7: undefined reference to `strlcpy'
+collect2: error: ld returned 1 exit status
+result of strlcpy: cc failed with exit status 1
+result of compiling strlcpy: no
+
+testing strndup ...
+cc -g -W -Wall -Wmissing-prototypes -Wstrict-prototypes -Wwrite-strings -Wno-unused-parameter -o test-strndup test-strndup.c 
+partial result of strndup: cc succeeded
+result of running strndup: yes
+
+testing strptime ...
+cc -g -W -Wall -Wmissing-prototypes -Wstrict-prototypes -Wwrite-strings -Wno-unused-parameter -o test-strptime test-strptime.c 
+partial result of strptime: cc succeeded
+result of running strptime: yes
+
+testing strsep ...
+cc -g -W -Wall -Wmissing-prototypes -Wstrict-prototypes -Wwrite-strings -Wno-unused-parameter -o test-strsep test-strsep.c 
+partial result of strsep: cc succeeded
+result of running strsep: yes
+
+testing strtonum ...
+cc -g -W -Wall -Wmissing-prototypes -Wstrict-prototypes -Wwrite-strings -Wno-unused-parameter -o test-strtonum test-strtonum.c 
+/home/ky0ko/code/netbsd-gc/src/tools/mandoc/../../external/bsd/mdocml/bin/mandoc/../../dist/test-strtonum.c: In function 'main':
+/home/ky0ko/code/netbsd-gc/src/tools/mandoc/../../external/bsd/mdocml/bin/mandoc/../../dist/test-strtonum.c:25:6: warning: implicit declaration of function 'strtonum'; did you mean 'strtouq'? [-Wimplicit-function-declaration]
+  if (strtonum("1", 0, 2, &errstr) != 1)
+      ^~~~~~~~
+      strtouq
+/usr/bin/ld: /tmp/cc5vKSMA.o: in function `main':
+/home/ky0ko/code/netbsd-gc/src/tools/mandoc/../../external/bsd/mdocml/bin/mandoc/../../dist/test-strtonum.c:25: undefined reference to `strtonum'
+/usr/bin/ld: /home/ky0ko/code/netbsd-gc/src/tools/mandoc/../../external/bsd/mdocml/bin/mandoc/../../dist/test-strtonum.c:29: undefined reference to `strtonum'
+/usr/bin/ld: /home/ky0ko/code/netbsd-gc/src/tools/mandoc/../../external/bsd/mdocml/bin/mandoc/../../dist/test-strtonum.c:33: undefined reference to `strtonum'
+/usr/bin/ld: /home/ky0ko/code/netbsd-gc/src/tools/mandoc/../../external/bsd/mdocml/bin/mandoc/../../dist/test-strtonum.c:37: undefined reference to `strtonum'
+collect2: error: ld returned 1 exit status
+result of strtonum: cc failed with exit status 1
+result of compiling strtonum: no
+
+testing vasprintf ...
+cc -g -W -Wall -Wmissing-prototypes -Wstrict-prototypes -Wwrite-strings -Wno-unused-parameter -o test-vasprintf test-vasprintf.c 
+partial result of vasprintf: cc succeeded
+result of running vasprintf: yes
+
+testing fts-DFTS_COMPARE_CONST ...
+cc -g -W -Wall -Wmissing-prototypes -Wstrict-prototypes -Wwrite-strings -Wno-unused-parameter -o test-fts test-fts.c -DFTS_COMPARE_CONST
+/home/ky0ko/code/netbsd-gc/src/tools/mandoc/../../external/bsd/mdocml/bin/mandoc/../../dist/test-fts.c: In function 'main':
+/home/ky0ko/code/netbsd-gc/src/tools/mandoc/../../external/bsd/mdocml/bin/mandoc/../../dist/test-fts.c:24:34: warning: passing argument 3 of 'fts_open' from incompatible pointer type [-Wincompatible-pointer-types]
+      FTS_PHYSICAL | FTS_NOCHDIR, fts_compare);
+                                  ^~~~~~~~~~~
+In file included from /home/ky0ko/code/netbsd-gc/src/tools/mandoc/../../external/bsd/mdocml/bin/mandoc/../../dist/test-fts.c:3:
+/usr/include/fts.h:184:6: note: expected 'int (*)(const FTSENT **, const FTSENT **)' {aka 'int (*)(const struct _ftsent **, const struct _ftsent **)'} but argument is of type 'int (*)(const FTSENT * const*, const FTSENT * const*)' {aka 'int (*)(const struct _ftsent * const*, const struct _ftsent * const*)'}
+ FTS *fts_open (char * const *, int,
+      ^~~~~~~~
+partial result of fts-DFTS_COMPARE_CONST: cc succeeded
+result of running fts-DFTS_COMPARE_CONST: yes
+
+testing UTF8_LOCALE ...
+selected UTF8_LOCALE=en_US.utf8
+
+testing wchar-DUTF8_LOCALE="en_US.utf8" ...
+cc -g -W -Wall -Wmissing-prototypes -Wstrict-prototypes -Wwrite-strings -Wno-unused-parameter -o test-wchar test-wchar.c -DUTF8_LOCALE="en_US.utf8"
+partial result of wchar-DUTF8_LOCALE="en_US.utf8": cc succeeded
+*result of running wchar-DUTF8_LOCALE="en_US.utf8": yes
+
+testing nanosleep ...
+cc -g -W -Wall -Wmissing-prototypes -Wstrict-prototypes -Wwrite-strings -Wno-unused-parameter -o test-nanosleep test-nanosleep.c 
+partial result of nanosleep: cc succeeded
+result of running nanosleep: yes
+
+testing ohash ...
+cc -g -W -Wall -Wmissing-prototypes -Wstrict-prototypes -Wwrite-strings -Wno-unused-parameter -o test-ohash test-ohash.c 
+/home/ky0ko/code/netbsd-gc/src/tools/mandoc/../../external/bsd/mdocml/bin/mandoc/../../dist/test-ohash.c:4:10: fatal error: ohash.h: No such file or directory
+ #include <ohash.h>
+          ^~~~~~~~~
+compilation terminated.
+result of ohash: cc failed with exit status 1
+result of compiling ohash: no
+
+testing ohash-lutil ...
+cc -g -W -Wall -Wmissing-prototypes -Wstrict-prototypes -Wwrite-strings -Wno-unused-parameter -o test-ohash test-ohash.c -lutil
+/home/ky0ko/code/netbsd-gc/src/tools/mandoc/../../external/bsd/mdocml/bin/mandoc/../../dist/test-ohash.c:4:10: fatal error: ohash.h: No such file or directory
+ #include <ohash.h>
+          ^~~~~~~~~
+compilation terminated.
+result of ohash-lutil: cc failed with exit status 1
+result of compiling ohash-lutil: no
+
+selected LDADD="    -lz"
+
+file config.h: written
+file Makefile.local: written

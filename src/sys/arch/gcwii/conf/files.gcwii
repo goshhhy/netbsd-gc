@@ -1,0 +1,32 @@
+
+# maxpartitions must be first item in files.${ARCH}.newconf
+maxpartitions 16
+
+maxusers 2 8 64
+
+include "arch/powerpc/pic/files.pic"
+
+file	arch/gcwii/gcwii/autoconf.c
+file	arch/gcwii/gcwii/machdep.c
+file	arch/powerpc/powerpc/clock.c
+file	arch/powerpc/powerpc/procfs_machdep.c	procfs
+
+# General files
+file	dev/cons.c
+
+#
+# System bus
+#
+device	mainbus {}
+attach	mainbus at root
+file	arch/gcwii/gcwii/mainbus.c	mainbus
+
+device	cpu
+attach	cpu at mainbus
+file	arch/gcwii/gcwii/cpu.c		cpu
+
+device	usbgecko
+attach	usbgecko at mainbus
+file 	arch/gcwii/gcwii/usbgecko.c	usbgecko
+
+include "arch/gcwii/conf/majors.gcwii"

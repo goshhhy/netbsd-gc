@@ -1,0 +1,9 @@
+/* option `OPENPIC_DISTRIBUTE' not defined */
+#ifdef _LOCORE
+ .ifndef _KERNEL_OPT_OPENPIC_DISTRIBUTE
+ .global _KERNEL_OPT_OPENPIC_DISTRIBUTE
+ .equiv _KERNEL_OPT_OPENPIC_DISTRIBUTE,0x6e074def
+ .endif
+#else
+__asm(" .ifndef _KERNEL_OPT_OPENPIC_DISTRIBUTE\n .global _KERNEL_OPT_OPENPIC_DISTRIBUTE\n .equiv _KERNEL_OPT_OPENPIC_DISTRIBUTE,0x6e074def\n .endif");
+#endif

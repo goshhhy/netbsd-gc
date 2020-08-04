@@ -1,0 +1,1 @@
+/home/ky0ko/code/netbsd-gc/src/tools/gmp/../../external/lgpl3/gmp/dist/mpn/x86_64/aors_err3_n.asm

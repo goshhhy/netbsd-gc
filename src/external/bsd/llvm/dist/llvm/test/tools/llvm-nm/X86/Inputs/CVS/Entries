@@ -1,0 +1,14 @@
+/Strip-N.LC_MAIN.exe.macho-x86_64/1.1.1.1/Tue Jul 17 18:35:45 2018//
+/Strip-N.hello.exe.macho-x86_64/1.1.1.1/Tue Jul 17 18:35:45 2018//
+/Strip-ST.dylib.macho-x86_64/1.1.1.1/Tue Aug  1 19:25:15 2017//
+/example.lib/1.1.1.1/Tue Aug  1 19:25:15 2017//
+/hello.obj.elf-i386/1.1.1.1/Tue Jul 17 18:35:45 2018//
+/hello.obj.elf-x86_64/1.1.1.1/Tue Jan 10 20:48:34 2017//
+/hello.obj.macho-x86_64/1.1.1.1/Sat Feb 27 22:52:55 2016//
+/init-fini.out.elf-x86_64/1.1.1.1/Tue Jan 10 20:48:34 2017//
+/libExample.a.macho-x86_64/1.1.1.1/Tue Jan 10 20:48:34 2017//
+/macho-bad-zero-nsect-for-N_SECT/1.1.1.1/Tue Jul 17 18:35:45 2018//
+/macho-dwarf-x86_64/1.1.1.1/Tue Jul 17 18:35:45 2018//
+/test.IRobj-x86_64/1.1.1.1/Sat Feb 27 22:52:55 2016//
+/weak.obj.elf-x86_64/1.1.1.1/Tue Jan 10 20:48:34 2017//
+D

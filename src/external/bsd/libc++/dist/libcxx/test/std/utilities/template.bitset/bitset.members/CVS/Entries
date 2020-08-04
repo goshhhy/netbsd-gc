@@ -1,0 +1,27 @@
+/all.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/any.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/count.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/flip_all.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/flip_one.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/index.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/index_const.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/left_shift.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/left_shift_eq.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/none.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/not_all.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/op_and_eq.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/op_eq_eq.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/op_or_eq.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/op_xor_eq.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/reset_all.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/reset_one.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/right_shift.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/right_shift_eq.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/set_all.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/set_one.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/size.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/test.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/to_string.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/to_ullong.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/to_ulong.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+D

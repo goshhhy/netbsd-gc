@@ -1,0 +1,12 @@
+/04-checkconf.dsc/1.1.1.1/Tue Feb  6 02:39:36 2018//
+/04-checkconf.test/1.1.1.1/Tue Feb  6 02:39:36 2018//
+/bad.badfwd/1.1.1.1/Tue Feb  6 02:39:36 2018//
+/bad.badif/1.1.1.1/Tue Feb  6 02:39:36 2018//
+/bad.badip/1.1.1.1/Tue Feb  6 02:39:36 2018//
+/bad.bind/1.1.1.1/Tue Feb  6 02:39:36 2018//
+/bad.user/1.1.1.1/Tue Feb  6 02:39:36 2018//
+/good.all/1.1.1.1/Tue Feb  6 02:39:36 2018//
+/good.ifport/1.1.1.1/Tue Feb  6 02:39:36 2018//
+/good.include/1.1.1.1/Tue Feb  6 02:39:36 2018//
+/warn.algo/1.1.1.1/Tue Feb  6 02:39:36 2018//
+D

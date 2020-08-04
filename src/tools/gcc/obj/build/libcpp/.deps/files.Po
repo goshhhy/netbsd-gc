@@ -1,0 +1,56 @@
+files.o: \
+ /home/ky0ko/code/netbsd-gc/src/tools/gcc/../../external/gpl3/gcc.old/dist/libcpp/files.c \
+ config.h \
+ /home/ky0ko/code/netbsd-gc/src/tools/gcc/../../external/gpl3/gcc.old/dist/libcpp/system.h \
+ /home/ky0ko/code/netbsd-gc/src/tools/gcc/../../external/gpl3/gcc.old/dist/libcpp/../include/filenames.h \
+ /home/ky0ko/code/netbsd-gc/src/tools/gcc/../../external/gpl3/gcc.old/dist/libcpp/../include/hashtab.h \
+ /home/ky0ko/code/netbsd-gc/src/tools/gcc/../../external/gpl3/gcc.old/dist/libcpp/../include/ansidecl.h \
+ /home/ky0ko/code/netbsd-gc/src/tools/gcc/../../external/gpl3/gcc.old/dist/libcpp/../include/libiberty.h \
+ /home/ky0ko/code/netbsd-gc/src/tools/gcc/../../external/gpl3/gcc.old/dist/libcpp/../include/safe-ctype.h \
+ /home/ky0ko/code/netbsd-gc/src/tools/gcc/../../external/gpl3/gcc.old/dist/libcpp/include/cpplib.h \
+ /home/ky0ko/code/netbsd-gc/src/tools/gcc/../../external/gpl3/gcc.old/dist/libcpp/include/symtab.h \
+ /home/ky0ko/code/netbsd-gc/src/tools/gcc/../../external/gpl3/gcc.old/dist/libcpp/../include/obstack.h \
+ /home/ky0ko/code/netbsd-gc/src/tools/gcc/../../external/gpl3/gcc.old/dist/libcpp/include/line-map.h \
+ /home/ky0ko/code/netbsd-gc/src/tools/gcc/../../external/gpl3/gcc.old/dist/libcpp/internal.h \
+ /home/ky0ko/code/netbsd-gc/src/tools/gcc/../../external/gpl3/gcc.old/dist/libcpp/include/symtab.h \
+ /home/ky0ko/code/netbsd-gc/src/tools/gcc/../../external/gpl3/gcc.old/dist/libcpp/include/cpp-id-data.h \
+ /home/ky0ko/code/netbsd-gc/src/tools/gcc/../../external/gpl3/gcc.old/dist/libcpp/include/cpplib.h \
+ /home/ky0ko/code/netbsd-gc/src/tools/gcc/../../external/gpl3/gcc.old/dist/libcpp/include/mkdeps.h \
+ /home/ky0ko/code/netbsd-gc/src/tools/gcc/../../external/gpl3/gcc.old/dist/libcpp/../include/hashtab.h \
+ /home/ky0ko/code/netbsd-gc/src/tools/gcc/../../external/gpl3/gcc.old/dist/libcpp/../include/md5.h
+
+config.h:
+
+/home/ky0ko/code/netbsd-gc/src/tools/gcc/../../external/gpl3/gcc.old/dist/libcpp/system.h:
+
+/home/ky0ko/code/netbsd-gc/src/tools/gcc/../../external/gpl3/gcc.old/dist/libcpp/../include/filenames.h:
+
+/home/ky0ko/code/netbsd-gc/src/tools/gcc/../../external/gpl3/gcc.old/dist/libcpp/../include/hashtab.h:
+
+/home/ky0ko/code/netbsd-gc/src/tools/gcc/../../external/gpl3/gcc.old/dist/libcpp/../include/ansidecl.h:
+
+/home/ky0ko/code/netbsd-gc/src/tools/gcc/../../external/gpl3/gcc.old/dist/libcpp/../include/libiberty.h:
+
+/home/ky0ko/code/netbsd-gc/src/tools/gcc/../../external/gpl3/gcc.old/dist/libcpp/../include/safe-ctype.h:
+
+/home/ky0ko/code/netbsd-gc/src/tools/gcc/../../external/gpl3/gcc.old/dist/libcpp/include/cpplib.h:
+
+/home/ky0ko/code/netbsd-gc/src/tools/gcc/../../external/gpl3/gcc.old/dist/libcpp/include/symtab.h:
+
+/home/ky0ko/code/netbsd-gc/src/tools/gcc/../../external/gpl3/gcc.old/dist/libcpp/../include/obstack.h:
+
+/home/ky0ko/code/netbsd-gc/src/tools/gcc/../../external/gpl3/gcc.old/dist/libcpp/include/line-map.h:
+
+/home/ky0ko/code/netbsd-gc/src/tools/gcc/../../external/gpl3/gcc.old/dist/libcpp/internal.h:
+
+/home/ky0ko/code/netbsd-gc/src/tools/gcc/../../external/gpl3/gcc.old/dist/libcpp/include/symtab.h:
+
+/home/ky0ko/code/netbsd-gc/src/tools/gcc/../../external/gpl3/gcc.old/dist/libcpp/include/cpp-id-data.h:
+
+/home/ky0ko/code/netbsd-gc/src/tools/gcc/../../external/gpl3/gcc.old/dist/libcpp/include/cpplib.h:
+
+/home/ky0ko/code/netbsd-gc/src/tools/gcc/../../external/gpl3/gcc.old/dist/libcpp/include/mkdeps.h:
+
+/home/ky0ko/code/netbsd-gc/src/tools/gcc/../../external/gpl3/gcc.old/dist/libcpp/../include/hashtab.h:
+
+/home/ky0ko/code/netbsd-gc/src/tools/gcc/../../external/gpl3/gcc.old/dist/libcpp/../include/md5.h:

@@ -1,0 +1,13 @@
+A D/allocator.tag////
+A D/allocator.traits////
+A D/allocator.uses////
+A D/c.malloc////
+A D/default.allocator////
+A D/pointer.traits////
+A D/ptr.align////
+A D/specialized.algorithms////
+A D/storage.iterator////
+A D/temporary.buffer////
+A D/unique.ptr////
+A D/util.dynamic.safety////
+A D/util.smartptr////

@@ -1,0 +1,11 @@
+source /home/ky0ko/code/netbsd-gc/src/sys/gdbscripts/bdump
+source /home/ky0ko/code/netbsd-gc/src/sys/gdbscripts/cpus
+source /home/ky0ko/code/netbsd-gc/src/sys/gdbscripts/kdump
+source /home/ky0ko/code/netbsd-gc/src/sys/gdbscripts/kernhist
+source /home/ky0ko/code/netbsd-gc/src/sys/gdbscripts/lwps
+source /home/ky0ko/code/netbsd-gc/src/sys/gdbscripts/module
+source /home/ky0ko/code/netbsd-gc/src/sys/gdbscripts/msgbuf
+source /home/ky0ko/code/netbsd-gc/src/sys/gdbscripts/pgrpdump
+source /home/ky0ko/code/netbsd-gc/src/sys/gdbscripts/procs
+source /home/ky0ko/code/netbsd-gc/src/sys/gdbscripts/vchain
+source /home/ky0ko/code/netbsd-gc/src/sys/gdbscripts/vdump

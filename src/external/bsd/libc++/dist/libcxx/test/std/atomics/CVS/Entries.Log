@@ -1,0 +1,8 @@
+A D/atomics.fences////
+A D/atomics.flag////
+A D/atomics.general////
+A D/atomics.lockfree////
+A D/atomics.order////
+A D/atomics.syn////
+A D/atomics.types.generic////
+A D/atomics.types.operations////

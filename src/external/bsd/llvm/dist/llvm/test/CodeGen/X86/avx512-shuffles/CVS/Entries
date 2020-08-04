@@ -1,0 +1,14 @@
+/broadcast-scalar-fp.ll/1.1.1.1/Tue Jul 17 18:35:08 2018//
+/broadcast-scalar-int.ll/1.1.1.1/Tue Jul 17 18:35:08 2018//
+/broadcast-vector-fp.ll/1.1.1.1/Tue Jul 17 18:35:08 2018//
+/broadcast-vector-int.ll/1.1.1.1/Tue Jul 17 18:35:08 2018//
+/duplicate-high.ll/1.1.1.1/Tue Jul 17 18:35:08 2018//
+/duplicate-low.ll/1.1.1.1/Tue Jul 17 18:35:08 2018//
+/in_lane_permute.ll/1.1.1.1/Tue Jul 17 18:35:08 2018//
+/partial_permute.ll/1.1.1.1/Tue Jul 17 18:35:08 2018//
+/permute.ll/1.1.1.1/Tue Jul 17 18:35:08 2018//
+/shuffle-interleave.ll/1.1.1.1/Tue Jul 17 18:35:08 2018//
+/shuffle-vec.ll/1.1.1.1/Tue Jul 17 18:35:08 2018//
+/shuffle.ll/1.1.1.1/Tue Jul 17 18:35:08 2018//
+/unpack.ll/1.1.1.1/Tue Jul 17 18:35:08 2018//
+D

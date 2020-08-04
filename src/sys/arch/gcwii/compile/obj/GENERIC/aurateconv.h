@@ -1,0 +1,9 @@
+#define	NAURATECONV	0
+#ifdef _LOCORE
+ .ifndef _KERNEL_OPT_NAURATECONV
+ .global _KERNEL_OPT_NAURATECONV
+ .equiv _KERNEL_OPT_NAURATECONV,0x0
+ .endif
+#else
+__asm(" .ifndef _KERNEL_OPT_NAURATECONV\n .global _KERNEL_OPT_NAURATECONV\n .equiv _KERNEL_OPT_NAURATECONV,0x0\n .endif");
+#endif

@@ -1,0 +1,11 @@
+A D/compress////
+A D/compressfail////
+A D/duplicate////
+A D/duplicate_dwo_name////
+A D/dwos_list_from_exec////
+A D/gcc_type////
+A D/invalid_cu_index////
+A D/merge////
+A D/missing_tu_index////
+A D/simple////
+A D/type_dedup////

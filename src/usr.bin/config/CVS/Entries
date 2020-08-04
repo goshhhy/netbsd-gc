@@ -1,0 +1,22 @@
+/Makefile/1.10/Wed Oct 29 19:10:49 2014//
+/TODO/1.31/Sun Nov 22 01:20:36 2015//
+/config.1/1.19/Tue Sep  1 16:01:23 2015//
+/config.5/1.38/Mon Jul  3 21:34:18 2017//
+/config.samples.5/1.6/Thu Mar  6 15:00:21 2014//
+/defs.h/1.104/Mon Aug 27 16:04:45 2018//
+/files.c/1.36/Fri Sep  9 21:09:11 2016//
+/gram.y/1.54/Sun Aug  7 10:37:24 2016//
+/hash.c/1.11/Wed Oct 29 17:14:50 2014//
+/lint.c/1.15/Wed Oct 29 17:14:50 2014//
+/main.c/1.97/Tue Nov 28 15:31:33 2017//
+/mkdevsw.c/1.15/Sat Jul 16 07:13:26 2016//
+/mkheaders.c/1.29/Thu Sep  3 13:53:36 2015//
+/mkioconf.c/1.35/Sun Nov 19 01:46:29 2017//
+/mkmakefile.c/1.71/Mon Aug 27 05:35:00 2018//
+/mkswap.c/1.10/Thu Sep  3 13:53:36 2015//
+/pack.c/1.10/Sat Sep 12 19:11:13 2015//
+/scan.l/1.26/Sun Aug  7 10:37:24 2016//
+/sem.c/1.83/Mon Apr  9 17:46:56 2018//
+/sem.h/1.20/Sun Aug  7 10:37:24 2016//
+/util.c/1.20/Tue Sep  1 13:42:48 2015//
+D

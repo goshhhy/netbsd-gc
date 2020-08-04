@@ -1,0 +1,19 @@
+/cmatch.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/cregex_iterator.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/cregex_token_iterator.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/csub_match.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/regex.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/smatch.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/sregex_iterator.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/sregex_token_iterator.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/ssub_match.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/wcmatch.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/wcregex_iterator.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/wcregex_token_iterator.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/wcsub_match.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/wregex.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/wsmatch.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/wsregex_iterator.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/wsregex_token_iterator.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+/wssub_match.pass.cpp/1.1.1.1/Thu Aug 20 09:31:52 2015//
+D

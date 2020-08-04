@@ -1,0 +1,37 @@
+diagnostic-color.o: \
+ /home/ky0ko/code/netbsd-gc/src/tools/gcc/../../external/gpl3/gcc.old/dist/gcc/diagnostic-color.c \
+ config.h auto-host.h \
+ /home/ky0ko/code/netbsd-gc/src/tools/gcc/../../external/gpl3/gcc.old/dist/gcc/../include/ansidecl.h \
+ /home/ky0ko/code/netbsd-gc/src/tools/gcc/../../external/gpl3/gcc.old/dist/gcc/system.h \
+ /home/ky0ko/code/netbsd-gc/src/tools/gcc/../../external/gpl3/gcc.old/dist/gcc/../include/safe-ctype.h \
+ /home/ky0ko/code/netbsd-gc/src/tools/gcc/../../external/gpl3/gcc.old/dist/gcc/../include/filenames.h \
+ /home/ky0ko/code/netbsd-gc/src/tools/gcc/../../external/gpl3/gcc.old/dist/gcc/../include/hashtab.h \
+ /home/ky0ko/code/netbsd-gc/src/tools/gcc/../../external/gpl3/gcc.old/dist/gcc/../include/ansidecl.h \
+ /home/ky0ko/code/netbsd-gc/src/obj/tooldir.Linux-4.17.19-1-MANJARO-x86_64/include/gmp.h \
+ /home/ky0ko/code/netbsd-gc/src/tools/gcc/../../external/gpl3/gcc.old/dist/gcc/../include/libiberty.h \
+ /home/ky0ko/code/netbsd-gc/src/tools/gcc/../../external/gpl3/gcc.old/dist/gcc/hwint.h \
+ /home/ky0ko/code/netbsd-gc/src/tools/gcc/../../external/gpl3/gcc.old/dist/gcc/diagnostic-color.h
+
+config.h:
+
+auto-host.h:
+
+/home/ky0ko/code/netbsd-gc/src/tools/gcc/../../external/gpl3/gcc.old/dist/gcc/../include/ansidecl.h:
+
+/home/ky0ko/code/netbsd-gc/src/tools/gcc/../../external/gpl3/gcc.old/dist/gcc/system.h:
+
+/home/ky0ko/code/netbsd-gc/src/tools/gcc/../../external/gpl3/gcc.old/dist/gcc/../include/safe-ctype.h:
+
+/home/ky0ko/code/netbsd-gc/src/tools/gcc/../../external/gpl3/gcc.old/dist/gcc/../include/filenames.h:
+
+/home/ky0ko/code/netbsd-gc/src/tools/gcc/../../external/gpl3/gcc.old/dist/gcc/../include/hashtab.h:
+
+/home/ky0ko/code/netbsd-gc/src/tools/gcc/../../external/gpl3/gcc.old/dist/gcc/../include/ansidecl.h:
+
+/home/ky0ko/code/netbsd-gc/src/obj/tooldir.Linux-4.17.19-1-MANJARO-x86_64/include/gmp.h:
+
+/home/ky0ko/code/netbsd-gc/src/tools/gcc/../../external/gpl3/gcc.old/dist/gcc/../include/libiberty.h:
+
+/home/ky0ko/code/netbsd-gc/src/tools/gcc/../../external/gpl3/gcc.old/dist/gcc/hwint.h:
+
+/home/ky0ko/code/netbsd-gc/src/tools/gcc/../../external/gpl3/gcc.old/dist/gcc/diagnostic-color.h:

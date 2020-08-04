@@ -1,0 +1,5 @@
+A D/thread.mutex.requirements.general////
+A D/thread.mutex.requirements.mutex////
+A D/thread.shared_mutex.requirements////
+A D/thread.sharedtimedmutex.requirements////
+A D/thread.timedmutex.requirements////

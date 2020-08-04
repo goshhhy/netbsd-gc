@@ -1,0 +1,15 @@
+A D/Fast-ISel////
+A D/GlobalISel////
+A D/cconv////
+A D/compactbranches////
+A D/cstmaterialization////
+A D/indirect-jump-hazard////
+A D/instverify////
+A D/llvm-ir////
+A D/longbranch////
+A D/micromips-sizereduction////
+A D/mips32r6////
+A D/mips64r6////
+A D/mirparser////
+A D/msa////
+A D/tailcall////

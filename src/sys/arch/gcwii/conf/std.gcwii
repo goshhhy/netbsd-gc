@@ -1,0 +1,14 @@
+# standard, required options for NetBSD/gcwii
+
+machine gcwii powerpc
+include "conf/std"	# MI standard options
+
+
+options 	PPC_OEA     # Gamecube and Wii use PPC750 series CPUs
+makeoptions	PPCDIR="oea"	# Tell Makefile.powerpc what dir to use
+makeoptions PPC_ARCH_MODE="ppc32"
+
+options 	EXEC_ELF32	# exec ELF binaries
+options 	EXEC_SCRIPT	# exec #! scripts
+
+options 	INTSTK=0x2000

@@ -1,0 +1,5 @@
+not-strip.o: \
+ /home/ky0ko/code/netbsd-gc/src/tools/binutils/../../external/gpl3/binutils.old/dist/binutils/not-strip.c \
+ /usr/include/stdc-predef.h
+
+/usr/include/stdc-predef.h:

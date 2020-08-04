@@ -1,0 +1,14 @@
+flonum-konst.o: \
+ /home/ky0ko/code/netbsd-gc/src/tools/binutils/../../external/gpl3/binutils.old/dist/gas/flonum-konst.c \
+ /usr/include/stdc-predef.h \
+ /home/ky0ko/code/netbsd-gc/src/tools/binutils/../../external/gpl3/binutils.old/dist/gas/../include/ansidecl.h \
+ /home/ky0ko/code/netbsd-gc/src/tools/binutils/../../external/gpl3/binutils.old/dist/gas/flonum.h \
+ /home/ky0ko/code/netbsd-gc/src/tools/binutils/../../external/gpl3/binutils.old/dist/gas/bignum.h
+
+/usr/include/stdc-predef.h:
+
+/home/ky0ko/code/netbsd-gc/src/tools/binutils/../../external/gpl3/binutils.old/dist/gas/../include/ansidecl.h:
+
+/home/ky0ko/code/netbsd-gc/src/tools/binutils/../../external/gpl3/binutils.old/dist/gas/flonum.h:
+
+/home/ky0ko/code/netbsd-gc/src/tools/binutils/../../external/gpl3/binutils.old/dist/gas/bignum.h:

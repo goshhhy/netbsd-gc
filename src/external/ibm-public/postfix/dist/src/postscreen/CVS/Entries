@@ -1,0 +1,17 @@
+/Makefile.in/1.1.1.5/Tue Feb 14 01:13:42 2017//
+/postscreen.c/1.2/Tue Feb 14 01:16:47 2017//
+/postscreen.h/1.2/Tue Feb 14 01:16:47 2017//
+/postscreen_dict.c/1.1.1.1/Wed Mar  2 19:32:26 2011//
+/postscreen_dnsbl.c/1.2/Tue Feb 14 01:16:47 2017//
+/postscreen_early.c/1.2/Tue Feb 14 01:16:47 2017//
+/postscreen_endpt.c/1.2/Tue Feb 14 01:16:47 2017//
+/postscreen_expand.c/1.2/Tue Feb 14 01:16:47 2017//
+/postscreen_haproxy.c/1.2/Tue Feb 14 01:16:47 2017//
+/postscreen_haproxy.h/1.1.1.1/Wed Sep 25 19:06:33 2013//
+/postscreen_misc.c/1.2/Tue Feb 14 01:16:47 2017//
+/postscreen_send.c/1.2/Tue Feb 14 01:16:47 2017//
+/postscreen_smtpd.c/1.2/Tue Feb 14 01:16:47 2017//
+/postscreen_starttls.c/1.2/Tue Feb 14 01:16:47 2017//
+/postscreen_state.c/1.2/Tue Feb 14 01:16:47 2017//
+/postscreen_tests.c/1.2/Tue Feb 14 01:16:47 2017//
+D

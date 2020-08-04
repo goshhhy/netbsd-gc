@@ -1,0 +1,28 @@
+#! /usr/bin/sh
+# Set proper variables to allow easy "make" building of a NetBSD subtree.
+# Generated from:  $NetBSD: build.sh,v 1.328 2018/08/09 08:30:29 christos Exp $
+# with these arguments: -N 3 -j 4 -U -m gcwii kernel=GENERIC
+#
+
+BSHELL=/usr/bin/sh; export BSHELL
+BUILDSEED=NetBSD-9; export BUILDSEED
+CONFIG_SHELL=/usr/bin/sh; export CONFIG_SHELL
+DESTDIR=/home/ky0ko/code/netbsd-gc/src/obj/destdir.gcwii; export DESTDIR
+HOST_SH=/usr/bin/sh; export HOST_SH
+unset INFODIR
+LC_ALL=C; export LC_ALL
+unset LESSCHARSET
+MACHINE=gcwii; export MACHINE
+MACHINE_ARCH=powerpc; export MACHINE_ARCH
+MAKEFLAGS='-de -m /home/ky0ko/code/netbsd-gc/src/share/mk  MKOBJDIRS=yes'; export MAKEFLAGS
+MAKEVERBOSE=3; export MAKEVERBOSE
+MAKEWRAPPERMACHINE=gcwii; export MAKEWRAPPERMACHINE
+MKARZERO=yes; export MKARZERO
+MKUNPRIVED=yes; export MKUNPRIVED
+NETBSDSRCDIR=/home/ky0ko/code/netbsd-gc/src; export NETBSDSRCDIR
+RELEASEDIR=/home/ky0ko/code/netbsd-gc/src/obj/releasedir; export RELEASEDIR
+unset TERMINFO
+TOOLDIR='/home/ky0ko/code/netbsd-gc/src/obj/tooldir.Linux-4.17.19-1-MANJARO-x86_64'; export TOOLDIR
+USETOOLS=yes; export USETOOLS
+
+exec "${TOOLDIR}/bin/nbmake" ${1+"$@"}

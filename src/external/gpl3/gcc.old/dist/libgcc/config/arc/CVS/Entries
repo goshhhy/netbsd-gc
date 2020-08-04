@@ -1,0 +1,15 @@
+/asm.h/1.1.1.2/Wed Aug  1 22:18:29 2018//
+/crtg.S/1.1.1.2/Wed Aug  1 22:18:29 2018//
+/crtgend.S/1.1.1.2/Wed Aug  1 22:18:29 2018//
+/crti.S/1.1.1.2/Wed Aug  1 22:18:29 2018//
+/crtn.S/1.1.1.2/Wed Aug  1 22:18:29 2018//
+/divtab-arc700.c/1.1.1.2/Wed Aug  1 22:18:29 2018//
+/dp-hack.h/1.1.1.2/Wed Aug  1 22:18:29 2018//
+/fp-hack.h/1.1.1.2/Wed Aug  1 22:18:29 2018//
+/initfini.c/1.1.1.2/Wed Aug  1 22:18:29 2018//
+/lib1funcs.S/1.1.1.2/Wed Aug  1 22:18:29 2018//
+/libgcc-excl.ver/1.1.1.2/Wed Aug  1 22:18:29 2018//
+/t-arc/1.1.1.2/Wed Aug  1 22:18:29 2018//
+/t-arc-newlib/1.1.1.2/Wed Aug  1 22:18:29 2018//
+/t-arc700-uClibc/1.1.1.2/Wed Aug  1 22:18:29 2018//
+D

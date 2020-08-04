@@ -1,0 +1,8 @@
+A D/time.duration.arithmetic////
+A D/time.duration.cast////
+A D/time.duration.comparisons////
+A D/time.duration.cons////
+A D/time.duration.literals////
+A D/time.duration.nonmember////
+A D/time.duration.observer////
+A D/time.duration.special////

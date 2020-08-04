@@ -1,0 +1,22 @@
+/arc-modes.def/1.4/Fri Feb  2 03:41:04 2018//
+/arc-opts.h/1.1.1.2/Fri Feb  2 01:59:51 2018//
+/arc-protos.h/1.4/Fri Feb  2 03:41:04 2018//
+/arc-simd.h/1.1.1.2/Fri Feb  2 01:59:51 2018//
+/arc.c/1.4/Fri Feb  2 03:41:04 2018//
+/arc.h/1.4/Fri Feb  2 03:41:04 2018//
+/arc.md/1.4/Fri Feb  2 03:41:04 2018//
+/arc.opt/1.4/Fri Feb  2 03:41:04 2018//
+/arc600.md/1.1.1.2/Fri Feb  2 01:59:51 2018//
+/arc700.md/1.1.1.2/Fri Feb  2 01:59:51 2018//
+/arcEM.md/1.1.1.1/Fri Feb  2 01:59:51 2018//
+/arcHS.md/1.1.1.1/Fri Feb  2 01:59:51 2018//
+/atomic.md/1.1.1.1/Fri Feb  2 01:59:51 2018//
+/builtins.def/1.1.1.1/Fri Feb  2 01:59:51 2018//
+/constraints.md/1.1.1.2/Fri Feb  2 01:59:51 2018//
+/fpu.md/1.1.1.1/Fri Feb  2 01:59:51 2018//
+/fpx.md/1.1.1.2/Fri Feb  2 01:59:51 2018//
+/predicates.md/1.1.1.2/Fri Feb  2 01:59:51 2018//
+/simdext.md/1.1.1.2/Fri Feb  2 01:59:51 2018//
+/t-arc-newlib/1.1.1.2/Fri Feb  2 01:59:51 2018//
+/t-arc-uClibc/1.1.1.2/Fri Feb  2 01:59:51 2018//
+D

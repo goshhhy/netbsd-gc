@@ -1,0 +1,19 @@
+/Makefile/1.37/Sun May 21 15:28:43 2017//
+/cmds.c/1.138/Mon Nov 20 21:11:36 2017//
+/cmdtab.c/1.52/Sat Dec 22 16:57:09 2012//
+/complete.c/1.46/Sun Apr 12 10:18:52 2009//
+/domacro.c/1.22/Sun Apr 12 10:18:52 2009//
+/extern.h/1.80/Wed Jul  4 06:09:37 2012//
+/fetch.c/1.230/Sun Feb 11 02:51:58 2018//
+/ftp.1/1.136/Mon Jul  3 21:34:57 2017//
+/ftp.c/1.167/Tue Oct  4 15:06:31 2016//
+/ftp_var.h/1.85/Mon Nov 20 21:11:36 2017//
+/main.c/1.125/Sun Mar  4 19:57:41 2018//
+/progressbar.c/1.22/Wed Jun 27 22:07:36 2012//
+/progressbar.h/1.8/Sun Apr 12 10:18:52 2009//
+/ruserpass.c/1.33/Tue Apr 17 05:52:04 2007//
+/ssl.c/1.6/Tue Feb  6 19:26:02 2018//
+/ssl.h/1.3/Sat Sep 12 19:38:42 2015//
+/util.c/1.159/Mon Nov 20 21:11:36 2017//
+/version.h/1.87/Sat Sep 12 20:18:52 2015//
+D

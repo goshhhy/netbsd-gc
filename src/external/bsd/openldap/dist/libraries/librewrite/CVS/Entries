@@ -1,0 +1,19 @@
+/Copyright/1.1.1.1/Thu May 22 14:20:36 2008//
+/Makefile.in/1.1.1.6/Tue Feb  6 01:53:08 2018//
+/RATIONALE/1.1.1.1/Thu May 22 14:20:36 2008//
+/config.c/1.1.1.6/Tue Feb  6 01:53:08 2018//
+/context.c/1.1.1.6/Tue Feb  6 01:53:08 2018//
+/info.c/1.1.1.6/Tue Feb  6 01:53:08 2018//
+/ldapmap.c/1.1.1.6/Tue Feb  6 01:53:08 2018//
+/map.c/1.1.1.6/Tue Feb  6 01:53:08 2018//
+/params.c/1.1.1.6/Tue Feb  6 01:53:08 2018//
+/parse.c/1.1.1.6/Tue Feb  6 01:53:08 2018//
+/rewrite-int.h/1.1.1.6/Tue Feb  6 01:53:08 2018//
+/rewrite-map.h/1.1.1.6/Tue Feb  6 01:53:08 2018//
+/rewrite.c/1.1.1.6/Tue Feb  6 01:53:08 2018//
+/rule.c/1.1.1.6/Tue Feb  6 01:53:08 2018//
+/session.c/1.4/Tue Feb  6 01:57:23 2018//
+/subst.c/1.1.1.6/Tue Feb  6 01:53:08 2018//
+/var.c/1.1.1.6/Tue Feb  6 01:53:08 2018//
+/xmap.c/1.1.1.6/Tue Feb  6 01:53:08 2018//
+D

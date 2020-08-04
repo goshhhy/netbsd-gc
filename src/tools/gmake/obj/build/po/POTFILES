@@ -1,0 +1,24 @@
+     /home/ky0ko/code/netbsd-gc/src/tools/gmake/../../external/gpl2/gmake/dist/ar.c \
+     /home/ky0ko/code/netbsd-gc/src/tools/gmake/../../external/gpl2/gmake/dist/arscan.c \
+     /home/ky0ko/code/netbsd-gc/src/tools/gmake/../../external/gpl2/gmake/dist/commands.c \
+     /home/ky0ko/code/netbsd-gc/src/tools/gmake/../../external/gpl2/gmake/dist/dir.c \
+     /home/ky0ko/code/netbsd-gc/src/tools/gmake/../../external/gpl2/gmake/dist/expand.c \
+     /home/ky0ko/code/netbsd-gc/src/tools/gmake/../../external/gpl2/gmake/dist/file.c \
+     /home/ky0ko/code/netbsd-gc/src/tools/gmake/../../external/gpl2/gmake/dist/function.c \
+     /home/ky0ko/code/netbsd-gc/src/tools/gmake/../../external/gpl2/gmake/dist/getopt.c \
+     /home/ky0ko/code/netbsd-gc/src/tools/gmake/../../external/gpl2/gmake/dist/hash.c \
+     /home/ky0ko/code/netbsd-gc/src/tools/gmake/../../external/gpl2/gmake/dist/implicit.c \
+     /home/ky0ko/code/netbsd-gc/src/tools/gmake/../../external/gpl2/gmake/dist/job.c \
+     /home/ky0ko/code/netbsd-gc/src/tools/gmake/../../external/gpl2/gmake/dist/main.c \
+     /home/ky0ko/code/netbsd-gc/src/tools/gmake/../../external/gpl2/gmake/dist/misc.c \
+     /home/ky0ko/code/netbsd-gc/src/tools/gmake/../../external/gpl2/gmake/dist/read.c \
+     /home/ky0ko/code/netbsd-gc/src/tools/gmake/../../external/gpl2/gmake/dist/remake.c \
+     /home/ky0ko/code/netbsd-gc/src/tools/gmake/../../external/gpl2/gmake/dist/remote-cstms.c \
+     /home/ky0ko/code/netbsd-gc/src/tools/gmake/../../external/gpl2/gmake/dist/rule.c \
+     /home/ky0ko/code/netbsd-gc/src/tools/gmake/../../external/gpl2/gmake/dist/signame.c \
+     /home/ky0ko/code/netbsd-gc/src/tools/gmake/../../external/gpl2/gmake/dist/strcache.c \
+     /home/ky0ko/code/netbsd-gc/src/tools/gmake/../../external/gpl2/gmake/dist/variable.c \
+     /home/ky0ko/code/netbsd-gc/src/tools/gmake/../../external/gpl2/gmake/dist/variable.h \
+     /home/ky0ko/code/netbsd-gc/src/tools/gmake/../../external/gpl2/gmake/dist/vmsfunctions.c \
+     /home/ky0ko/code/netbsd-gc/src/tools/gmake/../../external/gpl2/gmake/dist/vmsjobs.c \
+     /home/ky0ko/code/netbsd-gc/src/tools/gmake/../../external/gpl2/gmake/dist/vpath.c

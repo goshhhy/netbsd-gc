@@ -1,0 +1,9 @@
+A D/domain.error////
+A D/invalid.argument////
+A D/length.error////
+A D/logic.error////
+A D/out.of.range////
+A D/overflow.error////
+A D/range.error////
+A D/runtime.error////
+A D/underflow.error////
